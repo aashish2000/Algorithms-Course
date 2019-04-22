@@ -1,4 +1,3 @@
-import heapq
 import math
 
 f=open("edges.txt","r")
